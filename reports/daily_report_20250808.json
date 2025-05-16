@@ -1,0 +1,31 @@
+{
+  "report_type": "daily_fraud_detection",
+  "date": "2025-08-08",
+  "generated_at": "2025-08-08T23:13:55.885293+00:00",
+  "summary": {
+    "total_transactions": 0,
+    "fraudulent_transactions": 0,
+    "suspicious_transactions": 0,
+    "total_amount": 0.0,
+    "average_fraud_score": 0.0
+  },
+  "metrics": {
+    "transactions_per_hour": 0,
+    "fraud_rate": 0.0,
+    "average_response_time": 0.0
+  },
+  "alerts": [],
+  "top_merchants": [],
+  "risk_distribution": {
+    "LOW": 0,
+    "MEDIUM": 0,
+    "HIGH": 0,
+    "CRITICAL": 0
+  },
+  "report_metadata": {
+    "report_type": "daily",
+    "generated_at": "2025-08-08T23:13:55.885300+00:00",
+    "date": "2025-08-08",
+    "version": "1.0"
+  }
+}
