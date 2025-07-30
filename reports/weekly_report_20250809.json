@@ -1,0 +1,55 @@
+{
+  "report_type": "weekly_fraud_detection",
+  "week_start": "2025-08-09",
+  "week_end": "2025-08-16",
+  "generated_at": "2025-08-09T00:22:05.470772+00:00",
+  "summary": {
+    "total_transactions": 0,
+    "fraudulent_transactions": 0,
+    "suspicious_transactions": 0,
+    "total_amount": 0.0,
+    "average_fraud_score": 0.0
+  },
+  "trends": {
+    "daily_transactions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "daily_fraud_rate": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "daily_alerts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "top_merchants": [],
+  "risk_distribution": {
+    "LOW": 0,
+    "MEDIUM": 0,
+    "HIGH": 0,
+    "CRITICAL": 0
+  },
+  "report_metadata": {
+    "report_type": "weekly",
+    "generated_at": "2025-08-09T00:22:05.470775+00:00",
+    "date": "2025-08-09",
+    "version": "1.0"
+  }
+}

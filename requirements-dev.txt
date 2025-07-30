@@ -1,0 +1,49 @@
+# Include all production requirements
+-r requirements.txt
+
+# Testing Framework
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+pytest-xdist>=3.3.0
+pytest-html>=3.2.0
+
+# Load Testing
+locust>=2.15.0
+
+# Integration Testing
+testcontainers>=3.7.0
+responses>=0.23.0
+
+# Code Quality
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.5.0
+isort>=5.12.0
+bandit>=1.7.0
+pre-commit>=3.4.0
+
+# Documentation
+sphinx>=7.1.0
+mkdocs>=1.5.0
+mkdocs-material>=9.2.0
+
+# Development Tools
+jupyter>=1.0.0
+ipython>=8.14.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
+
+# Debugging
+ipdb>=0.13.0
+debugpy>=1.6.0
+
+# Type Checking
+types-requests>=2.31.0
+types-PyYAML>=6.0.0
+types-python-dateutil>=2.8.0
+
+# Performance Profiling (commented out due to Python 3.13 compatibility issues)
+# memory-profiler>=0.61.0
+# line-profiler>=4.1.0
